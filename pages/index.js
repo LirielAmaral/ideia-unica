@@ -3,7 +3,12 @@ import { useState } from 'react';
 function Home() {
     return (
         <div>
-        <h1>Home 1</h1>
+        <h1>Feliz Natal, Clinio e Lucilene, 
+            Aproveitem muito o dia de vocês,
+            tomando um chocolate quente e vendo a neve pela janela nesse friozinho de natal igual de filme.
+            Estou morrendo de saudades e muito orgulhosa de vocês,
+            Amo muito vocês s2
+            Da sua filha amada, Liriel Amaral S2</h1>
         <Contador />
         <div>Teste</div>
         </div>
