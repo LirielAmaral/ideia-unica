@@ -10,7 +10,7 @@ function Home() {
             Amo muito vocês s2
             Da sua filha amada, Liriel Amaral S2</h1>
         <Contador />
-        <div>Teste</div>
+        <div>Amo vocês</div>
         </div>
         )
 }
