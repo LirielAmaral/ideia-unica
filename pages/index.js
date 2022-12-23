@@ -3,7 +3,7 @@ import { useState } from 'react';
 function Home() {
     return (
         <div>
-        <h1>Feliz Natal, Clinio e Lucilene, 
+        <h1>Feliz Natal, Baby e mamãe, 
             Aproveitem muito o dia de vocês,
             tomando um chocolate quente e vendo a neve pela janela nesse friozinho de natal igual de filme.
             Estou morrendo de saudades e muito orgulhosa de vocês,
