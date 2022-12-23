@@ -4,10 +4,10 @@ function Home() {
     return (
         <div>
         <h1>Feliz Natal, Baby e mamãe, 
-            Aproveitem muito o dia de vocês,
+            aproveitem muito o dia de vocês,
             tomando um chocolate quente e vendo a neve pela janela nesse friozinho de natal igual de filme.
             Estou morrendo de saudades e muito orgulhosa de vocês,
-            Amo muito vocês s2
+            amo muito vocês s2
             Da sua filha amada, Liriel Amaral S2</h1>
         <Contador />
         <div>Amo vocês</div>
